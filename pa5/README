@@ -1,0 +1,36 @@
+
+Jinyan Li, (CruzID:jli134 )
+CMPS 101, <winter 15>
+Programming Assignment 5
+---------------------------------
+Included Files:
+---------------------------------
+List.c
+ List.c contains a double linked List data structure specified to handle integer 
+ inputs. It exists to allow the storing of information and allow ease in sort in
+ as this information is added. 
+
+List.h
+header file for List.c
+
+Graph.c
+This is a graph ADT.
+Graph ADT that represents a graph as an array of Lists. Each vertex will be associated
+with an integer label in the range 1 to n, where n is the number of vertices in the graph.
+
+Graph.h
+Header file for Graph.c ADT
+
+GraphTest.c
+Test program for Graph.c ADT
+
+FindComponents.c
+This program will takes two arguments first one is the input file second one is output file
+This program will read the graph data in input file and print out the adj list and strongly connected components of the graph by using DFS.
+
+
+Makefile
+Make a C file
+
+README
+This file

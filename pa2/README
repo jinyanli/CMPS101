@@ -1,0 +1,26 @@
+//Author Jinyan Li, CMPS 101, pa2
+
+---------------------------------
+Included Files:
+---------------------------------
+List.c
+ List.c contains a double linked List data structure specified to handle integer 
+ inputs. It exists to allow the storing of information and allow ease in sort in
+ as this information is added. 
+List.H=h
+contain header of List.c
+
+ListClient.c
+ 
+ Supplied by Professor Tantalo, this class exists to test the functionality and performance
+ of the List ADT by acting as a test harness and providing a set of known inputs and outputs
+ to various List functions to confirm intended functionality is exhibited.
+
+Lex.c
+ 
+ Written by Ryan Connors, this class accepts two command line arguments indicating a filepath
+ to a text file containing input to LEX as argument 0, and a filepath to a text file containing
+ the output file as argument 1. Lex will then utilize the List ADT to store the input information
+
+Makefile
+compile and link files
