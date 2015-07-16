@@ -11,6 +11,7 @@ ListClient.java
 Matrix.java
  Matrix.java defines the Matrix class data structure.
 Sparse.java
- This is the top level client module for this project
+ This is the top level client module for this project.It will take two command line
+ arguments giving the names of the input and output files, respectively
 Makefile
 README
