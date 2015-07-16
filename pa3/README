@@ -1,0 +1,16 @@
+Jiyan Li, ID:jli134 
+CMPS 101, 
+pa3 
+Goal:In this project will,I  created a calculator for performing matrix operations that exploits the
+(expected) sparseness of it’s matrix operands. 
+File:
+List.java 
+ List.java contains a doubly linked list data structure.
+ListClient.java
+ This is to test the functionality and perform
+Matrix.java
+ Matrix.java defines the Matrix class data structure.
+Sparse.java
+ This is the top level client module for this project
+Makefile
+README
